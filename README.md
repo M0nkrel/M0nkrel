@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @M0nkrel , cybersecurity studen (2nd grade)
+- 👋 Hi, I’m @M0nkrel , cybersecurity student (2nd grade )
 - 👀 I’m interested in programming some cool stuff.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
