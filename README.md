@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @M0nkrel , cybersecurity student (2nd grade )
-- 👀 I’m interested in programming some cool stuff.
+- 👋 Привет, я monkrel, Студент 2-го курса специальности "Кибербезопасность"
+- 👀 I’m interested in game hacking
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 M0nkrel/M0nkrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
