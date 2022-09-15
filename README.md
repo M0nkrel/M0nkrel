@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @m0nkrel , cybersecurity student (2nd grade )
-- 👋 Привет, я m0nkrel, студент 2-го курса специальности "Кибербезопасность"
+- 👋 Hi, I’m @m0nkrel , cybersecurity student (3rd grade )
+- 👋 Привет, я m0nkrel, студент 3-го курса специальности "Кибербезопасность"
 - 👀 I’m interested in game hacking
 - 🌱 I’m currently learning C++
 
